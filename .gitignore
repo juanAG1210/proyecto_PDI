@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Cosas de Python
+__pycache__/
+*.pyc
+
+# Cosas de notebooks
+.ipynb_checkpoints/
+
+# Otros
+.DS_Store
